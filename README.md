@@ -1,52 +1,25 @@
-# NeuralSight
+# Getting Started
+## Introduction
+Radiologists are faced with a high volume of medical images and a shortage of radiologists. Across the world, there's also an exponential increase in the number of patients who need radiology services. Our solution is deep learning and computer vision based technology that screens medical images in real time, helping Radiologists save time, reduce radiation exposure for patients, and improve patient experience.
 
-## THE PROBLEM
+We are proposing web Software as a service (SAAS) and mobile application( to be developed in the future) that will be  accessible to medical practitioners such as radiologists, radiographers, hospitals and diagnostic centres. This involves developing an application based on the DICOM standard which allows the upload of medical images such as digital radiography, ultrasonography,  secondary pictures and scanned images, digital angiography etc.,in various formats (JPEG,PNG ) be it monochromatic, coloured,  static images, uncompressed and compressed images. 
 
-In Africa, healthcare services are overused yet under resourced challenging
-healthcare providers with a significant burden to diseases. A patient’s wait
-time to receive analyzed lab results is often more than 2 weeks. This has
-resulted in late treatment reducing the chances of survival especially with fast
-killing diseases such as Tuberculosis, Pneumonia and COVID-19.
+## The Solution
+Our AI algorithm NeuralSight™ is capable of identifying 15 respiratory and heart diseases which include: Pneumonia, COVID-19, Aortic enlargement, Atelectasis, Calcification, Cardiomegaly,Consolidation, Interstitial Lung Disease (ILD), Infiltration, Lung Opacity, Nodule/Mass, Pleural effusion, Pleural thickening, Pneumothorax, Pulmonary fibrosis  in Real Time.
 
+## Software Road Map
+### Research Prototype
+* Defined task and found applicable algorithmic approach.
+* Tested feasibility of algorithm on first data.
+* Evaluated performance of algorithm on limited dataset.
 
-## TUBERCULOSIS
+### Clinical Prototype
+* Evaluated algorithm on real-world data from routine pathology.
+* Integrated solution prototype usable by developers.
+* Prototype evaluated in routine pathology.
 
-It is the leading infectious cause of death worldwide .About 1.8 billion people
-are infected with Mycobacterium tuberculosis (M.tb) the bacteria that causes
-TB (close to one quarter of the world's population) – WHO Responsible for
-1.4 million deaths in 2019
+### Product
+* Documented test results and performance assessment for regulatory approval.
+* Solution in production use in routine pathology.
 
-
-## MORBIDITY & MORTALITY
-
-Over 2 million children die annually of acute respiratory infections, most often
-pneumonia where death can occur after 3 days of illness - World Health
-Organization Globally, respiratory, cancerous, and congenital heart diseases
-are among the leading causes of morbidity and mortality in the World today
-with adverse effects in Africa.
-
-
-## ADDRESSING THE PROBLEM
-
-An automated tool to help identify diseases has the potential to reduce
-hospital workload and optimize patient care during a time when hospitals
-are being overwhelmed by COVID-19 cases.
-OUR SOLUTION
-
-An algorithm that uses deep learning & computer vision to identify, label and
-highlight over 20 respiratory, heart and breast diseases in Real Time across
-various imaging modalities
-
-
-## CHEST IMAGING
-
-On chest X-rays NeuralSightTM is capable of Identifying, Labeling and
-Highlighting over 10 respiratory pathologies which include: Aortic
-Enlargement, Infiltration, effusion, etc.
-
-MAMMOGRAPHY IMAGING
-
-On breast images NeuralSightTM is capable of identifying malignant which
-causes breast cancer as well as Benign, a condition that causes growth or other
-changes in breast tissue.
-
+![project roadmap](https://drive.google.com/file/d/1P0Gcujm7UhaASMVnqz92QUTUa2ItpXYI/view?usp=share_link)
