@@ -65,7 +65,7 @@ Quality Assurance Program in radiology facility is determined by an analysis of 
 
 ### Data Modeling
 NeuralSight is implemented using federated learning architecture.
-<img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling.png" width="712" height="512" /><img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling.png" width="712" height="512" />
+<img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling.png" width="960" height="512" /><img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling2.png" width="960" height="512" />
 
 ## Performance evaluation 
 The proper functional performance of the AI solution in pathology is also assessed in regulatory procedures. In the EU, the performance evaluation required has three aspects: 
