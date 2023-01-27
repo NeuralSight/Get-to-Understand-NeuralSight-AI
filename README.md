@@ -23,11 +23,11 @@ Lastly, we will take you through the project roadmap and future technology innov
 * Obstacles of AI in Medical Imaging
 
 ## Important Resources:
-1. [What is NeuralSight](https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI)
-2. [NeuralSight Project Documentation](https://neuralsight.github.io/NeuralSight_Docs/)
+1. [NeuralSight Project Documentation](https://neuralsight.github.io/NeuralSight_Docs/)
+2. [NeuralSight AI Repository](https://github.com/NeuralSight/NeuralSight_AI/)
 3. [NeuralSight Frontend Repository](https://github.com/NeuralSight/NeuralSight_frontend)
-4. [Have a new Feature or an Issue you want fixed?](https://github.com/NeuralSight/NeuralSight_AI/tree/main/.github/ISSUE_TEMPLATE)
-5. [NeuralSight AI Backend Repository](https://github.com/NeuralSight/NeuralSight_AI/)
+4. [Company Charter](https://github.com/NeuralSight/NeuralSight_Docs)
+5. [Have a new Feature or an Issue you want fixed?](https://github.com/NeuralSight/NeuralSight_AI/tree/main/.github/ISSUE_TEMPLATE)
 
 
 ## 1. Introduction
