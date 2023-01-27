@@ -1,6 +1,13 @@
 # Getting Started
 
 ## What is in this Repository?
+This repository contains a non technical overview of the project NeuralSight. It explain in brief about the solution, the objective and requirements of the project. It also gives an oveview of how to aqquire data necessary to successfully run the project, how to de-identify the data to protect patient information and the process of data annotation.
+
+You will get to understand Quality control methods and approaches to data modelling to successfully build deep learning algorithms and performance evaluation that gives you a better view on how to ensure you develop a reliable and accurate Ai algorithm.
+
+Lastly, we will take you through the project roadmap and future technology innovations to be implemented by Neural Labs Africa. 
+
+## Table of Contents
 * Introduction
 * The Solution
 * Objective 
