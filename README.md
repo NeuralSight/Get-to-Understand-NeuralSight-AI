@@ -65,6 +65,7 @@ Quality Assurance Program in radiology facility is determined by an analysis of 
 
 ### Data Modeling
 NeuralSight is implemented using federated learning architecture.
+
 <img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling.png" width="960" height="712" /><img align="centre" src="https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/blob/main/images/data-modeling2.png" width="960" height="256" />
 
 ## Performance evaluation 
