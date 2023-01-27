@@ -22,4 +22,4 @@ Our AI algorithm NeuralSight™ is capable of identifying 15 respiratory and hea
 * Documented test results and performance assessment for regulatory approval.
 * Solution in production use in routine pathology.
 
-![project roadmap](https://drive.google.com/file/d/1P0Gcujm7UhaASMVnqz92QUTUa2ItpXYI/view?usp=share_link)
+![project roadmap](https://github.com/NeuralSight/Get-to-Understand-NeuralSight-AI/images/roadmap.png?raw=true)
